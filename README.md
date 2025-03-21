@@ -1,5 +1,5 @@
 # *Practices*
-
+## *Library Management System Project*
 ### **@Configuration and @Bean Usage**
 
 @Configuration annotation is used for EmailConfig. EmailConfig has a method with @Bean annotation.
